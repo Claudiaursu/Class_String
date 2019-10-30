@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1572424269 source:c:\users\clau pc\desktop\c-c++\poo- sem 1\class_string\string.cpp
+	"String.h"
+	<iostream>
+	<string.h>
+
+1572423820 c:\users\clau pc\desktop\c-c++\poo- sem 1\class_string\string.h
+	<iostream>
+
+1572424157 source:c:\users\clau pc\desktop\c-c++\poo- sem 1\class_string\main.cpp
+	<iostream>
+	<string.h>
+	"String.h"
+	"Colectie_string.h"
+
+1572387096 source:c:\users\clau pc\desktop\c-c++\poo- sem 1\class_string\colectie_string.cpp
+	"Colectie_string.h"
+	"String.h"
+	<iostream>
+
+1572387096 c:\users\clau pc\desktop\c-c++\poo- sem 1\class_string\colectie_string.h
+	"String.h"
+	<iostream>
+
