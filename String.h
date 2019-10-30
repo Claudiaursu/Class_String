@@ -13,7 +13,7 @@ public:
     String(int);
     String(char *); // constructor de initializare cu siruri pointate de char *
     String(const char); // constructor de initializare cu valoare de tip char
-    String(const String&); // constructor de initializare cu un alt obiect de tip string
+    String(const String&); // constructor de copiere
     ~String();
 
     void setare(); /// metoda publica de setat sirul
